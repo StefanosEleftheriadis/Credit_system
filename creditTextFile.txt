@@ -1,0 +1,14 @@
+Customer Name          Account Number		Current Balance		Credit Limit
+FELICITY BOWSER                   50		          81.09		      300.00
+ELIZABETH CROWLEY                100		         708.35		     1000.00
+DAISY DANDELION                  150		         311.12		      500.00
+BILL COSBY                       200		          53.20		      500.00
+SAM PENNYWHISTLE                 250		          50.00		      250.00
+ALICE JOHNSON                    350		         495.00		      500.00
+MARY JANE SMITH                  400		         211.18		      500.00
+TURBO FERRARI                    450		         629.13		      900.00
+JIM JAY JONES                    500		         663.25		      750.00
+FRANK GRICHLEY                   550		           0.00		      300.00
+JANE SEYMOUR                     600		         110.00		      200.00
+LOUIS LACKLUSTER                 650		          99.18		      100.00
+CHRIS BIGBOTTON                  750		         190.00		      200.00
